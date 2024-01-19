@@ -1,0 +1,2 @@
+tsc is the compiler of typescript
+tsc -w is to run in watch mode means any change in ts file will refresh the terminal
