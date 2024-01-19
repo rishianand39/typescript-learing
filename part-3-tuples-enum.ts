@@ -51,3 +51,4 @@ enum Color {
   let selectedColor: Color = Color.Green;
   console.log(selectedColor); // Output: GREEN
   
+export {}
