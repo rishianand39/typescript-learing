@@ -31,8 +31,10 @@ async function getFavoritePromiseNumber(): Promise<number> {
 }
 
 // Anonymous Functions 
+
 // For anaoymous function, TypeScript can determine how it’s going to be called, the parameters of that function are automatically given types.
 // process is called contextual typing
+
 const names = ["Alice", "Bob", "Eve"];
  
 names.forEach((s) => {
