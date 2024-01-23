@@ -65,3 +65,4 @@ type Car = {
   type OptionalUser = OptionalProps<User>;
   // OptionalUser is { name?: string; age?: number; }
   
+  

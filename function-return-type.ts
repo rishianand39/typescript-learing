@@ -1,3 +1,4 @@
+// Much like variable type annotations, you usually don’t need a return type annotation because TypeScript will infer the function’s return type based on its return statements.
 function getFavoriteNumber(): number {
     return 26;
 }
